@@ -20,3 +20,17 @@ HTML: Structure of the application.
 CSS: Styling and layout.
 
 JavaScript: Functionality and game logic.
+
+Preview of Simon Game:
+
+Intial View:
+![image](https://github.com/vasampavan/simongame/assets/162179032/5d55d0bd-95bf-4ae7-a0a1-54ac0794d156)
+
+Playing:
+
+![image](https://github.com/vasampavan/simongame/assets/162179032/86f8a727-62b0-47a1-93db-49ec951cc91b)
+
+
+Game Over:
+
+![image](https://github.com/vasampavan/simongame/assets/162179032/02b7f770-a512-42c2-9e7a-ca92b7b042f0)
