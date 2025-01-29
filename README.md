@@ -1,7 +1,8 @@
 # simongame
 
 Welcome to the Simon Game! This is a fun and interactive game built using HTML, CSS, and JavaScript. The Simon Game challenges players to remember and reproduce increasingly long sequences of lights and sounds.It is well helpful to sharpen our brain by remembering the sequence.
-linl: https://vasampavan.github.io/simongame/
+
+link: https://vasampavan.github.io/simongame/
 
 Features:
 
